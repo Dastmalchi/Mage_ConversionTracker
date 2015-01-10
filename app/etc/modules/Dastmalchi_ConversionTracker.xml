@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dastmalchi_ConversionTracker>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </Dastmalchi_ConversionTracker>
+    </modules>
+</config>

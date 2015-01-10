@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <tabs>
+        <conversiontracker translate="label" module="dastmalchi_conversiontracker">
+            <label>Conversion Tracking</label>
+        </conversiontracker>
+    </tabs>
+    <sections>
+        <conversiontracker_settings translate="label" module="dastmalchi_conversiontracker">
+            <label>Tracking Code</label>
+            <tab>conversiontracker</tab>
+            <frontend_type>text</frontend_type>
+            <sort_order>1000</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <messages translate="label">
+                    <label>Tracking Code</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>1</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>-->
+                    <fields>
+                        <tracking_code>
+                            <label>Tracking code</label>
+                            <frontend_type>textarea</frontend_type>
+                            <sort_order>1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </tracking_code>
+                    </fields>
+                </messages>
+            </groups>
+        </conversiontracker_settings>
+    </sections>
+</config>

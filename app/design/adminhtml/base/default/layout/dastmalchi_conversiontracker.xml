@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0.0">
+    <adminhtml_conversiontracker_index>
+        <update handle="editor"/>
+        <reference name="content">
+            <block type="dastmalchi_conversiontracker/adminhtml_form_edit" name="conversiontracker"/>
+        </reference>
+    </adminhtml_conversiontracker_index>
+</layout>
