@@ -6,13 +6,13 @@
 /**
  * @category   Views
  * @package    Dastmalchi_ConversionTracker
- * @version    0.0.1
+ * @version    0.9.0
  */
 
 /**
  * HTML Block for conversion tracking code
  *
- * @version    0.0.1
+ * @version    0.9.0
  * @package    Dastmalchi_ConversionTracker
  */
 class Dastmalchi_ConversionTracker_Block_Conversion extends Mage_Core_Block_Template

@@ -1,8 +1,13 @@
 <?php
-/*
+/**
  * This file is part of Dastmalchi_ConversionTracker.
- *
+ */
+
+/**
  * Extends Varien_Filter_Template with Array Directive
+ *
+ * @version    0.9.0
+ * @package    Dastmalchi_ConversionTracker
  */
 class Dastmalchi_Conversiontracker_Model_Filter extends Varien_Filter_Template
 {
